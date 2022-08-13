@@ -16,6 +16,7 @@ function App() {
     setCartIsShown(false);
   }
 
+  //Cart Provider
   return (
     //Doing the something here.
     <CartProvider>
