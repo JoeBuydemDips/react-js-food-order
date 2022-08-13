@@ -16,6 +16,7 @@ function App() {
     setCartIsShown(false);
   }
 
+  //bug fix here.
   //Cart Provider
   return (
     //Doing the something here.
